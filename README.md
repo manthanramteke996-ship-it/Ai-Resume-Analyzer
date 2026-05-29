@@ -8,10 +8,10 @@ This project is an AI-powered resume analyzer that uses natural language process
 
 ## Screenshots
 
-(https://github.com/manthanramteke996-ship-it/Ai-Resume-Analyzer/blob/main/Screenshot_1.png)  ](https://github.com/manthanramteke996-ship-it/Ai-Resume-Analyzer/blob/main/Screenshot_1.png)      
+(https://github.com/manthanramteke996-ship-it/Ai-Resume-Analyzer/blob/main/Screenshot_1.png)      
 
 
-[(https://github.com/manthanramteke996-ship-it/Ai-Resume-Analyzer/blob/main/Screenshot_1.png)](https://github.com/manthanramteke996-ship-it/Ai-Resume-Analyzer/blob/main/Screenshot_2.png)
+(https://github.com/manthanramteke996-ship-it/Ai-Resume-Analyzer/blob/main/Screenshot_2.png)
 
 
 
