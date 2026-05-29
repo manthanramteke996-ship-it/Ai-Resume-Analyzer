@@ -6,9 +6,6 @@ This project is an AI-powered resume analyzer that uses natural language process
 
 
 
-
-
-
 ## Screenshots
 
 ![Screenshot1](https://github.com/bhaveshk22/AI-Resume-Analyzer/assets/141263853/01bacdb1-8138-48ed-a9fa-bc33a3e0311e)              
@@ -62,22 +59,6 @@ Start the server
 ```bash
   streamlit run App.py
 ```
-
-
-## Authors
-
-- [@bhavesh](https://github.com/bhaveshk22)
-
-
-# Hi, I'm Bhavesh! 👋
-
-
-## 🚀 About Me
-I'm a Full Stack Data Scientist
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavesh-kabdwal-6ba30a25b)
 
 
 ## 🛠 Skills
